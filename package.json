@@ -1,0 +1,27 @@
+{
+  "name": "herbalista",
+  "version": "1.0.0",
+  "description": "info about herbs and their healing properties",
+  "main": "app.js",
+  "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/WystJenkins/herbalista.git"
+  },
+  "author": "Marie-Therese Fischer",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/WystJenkins/herbalista/issues"
+  },
+  "homepage": "https://github.com/WystJenkins/herbalista#readme",
+  "engines": {
+      "node": ">=4.3.2"
+  },
+  "dependencies": {
+      "express": "4.14.0"
+  },
+  "devDependencies": {}
+}
