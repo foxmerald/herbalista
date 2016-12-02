@@ -1,0 +1,24 @@
+body {}
+
+
+/* index */
+
+
+/* herbs */
+
+.herbs .container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.herbs .container .box0 {
+    flex-grow: 1;
+}
+
+.herbs .container .box1 {
+    flex-grow: 2;
+}
+
+
+/* conditions */
